@@ -9,4 +9,9 @@ En la siguiente practica se requiere pequeños ejercicios de repaso paraq compre
 ### Concideraciones:
 
 <p align = "justify">
-Esta practica sera desarrollada con estructura de ramales, para el estudiante comienze con la manipulacion copleta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizado de Git y GitHub. </p>
+Esta practica sera desarrollada con estructura de ramales, para el estudiante comienze con la manipulacion copleta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizado de Git y GitHub.
+
+### Historial de Cambios
+
+|No.|Descripcion|Ponteciador|Estatus|
+| 1.|Declaracion de variables|1|💻En Progreso|

@@ -8,6 +8,10 @@
 // EJERCICIO 01: Declaraciones de variables de JavaScript
 
 //1. utilizable
+const bg1 = "linear-gradient(45deg, rgba(52, 152, 219, 1) 0%, rgba(26, 188, 156, 1) 50%)";
+const style_console1 = `background: ${bg1}; color: white; border-radius: 6px; padding: 4px; font-size: 1.0rem; font-weight: bold;`;
+console.log("%c1.- Ejercicio 01: Declaraciones de variables de JavaScript ", style_console1);
+
 
 console.warn("Declaracion de una constante utilizando el prefijo var ")
 var elNombre = "Jose Maria";

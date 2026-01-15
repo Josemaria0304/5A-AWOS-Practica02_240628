@@ -15,5 +15,5 @@ Esta practica sera desarrollada con estructura de ramales, para el estudiante co
 
 |No.|Descripcion|Ponteciador|Estatus|
 |--|--|--|--|
-| 1.| Declaracion de variables| 3 | 💻Finalizado |
-| 2.| Tipos de Datos| 8 | ✅En Progreso |
+| 1.| Declaracion de variables| 3 | ✅Finalizado |
+| 2.| Tipos de Datos| 8 | ✅Finalizado |
